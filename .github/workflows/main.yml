@@ -21,6 +21,6 @@ jobs:
           git config user.name ethanpickett
           git config user.email ethanpickett@hotmail.co.uk
           git add .
-          git comit -m "Modified Feed"
+          git commit -m "Modified Feed"
           git push
       
